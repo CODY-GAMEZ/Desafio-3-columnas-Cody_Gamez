@@ -14,13 +14,9 @@ body {
 }
 
 .codes {
-    align-items: flex-start;
-    justify-content: end;
-    top: 60px;
     font-size: 12px;
     text-align: center;
     font-family: sans-serif;
-    position: absolute;
 }
 
 .codes a {
@@ -100,24 +96,6 @@ button:hover {
 .boton_uno {
     color: hsla(31, 77%, 52%, 0.87);
 }
-
-
-/*
-
-
-
-gdsfgdafg
-
-
-asdfg
-adfgadf
-gafg
-
-
-
-
-
-*/
 
 .container_dos {
     background-color: hsl(184, 100%, 22%);
